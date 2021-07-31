@@ -4,6 +4,11 @@
   
   
   
+ - **pandas **
+ - **numpy **
+ - **matplotlib.pyplot **
+ - **seaborn    **
+ - **fbprophet  **
   
  #  `RESOURCES`
   
